@@ -7,5 +7,6 @@ tmp/*
 dist
 
 # Ignore test-related files
-__tests__/coverage.data
 __tests__/coverage/
+__tests__/coverage.data
+__tests__/database.sqlite
